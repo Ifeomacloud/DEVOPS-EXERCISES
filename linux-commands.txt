@@ -1,5 +1,0 @@
-1. ls - lists directory contents
-2. cd - changes the current directory
-3. mkdir - creates a new directory
-4. rm - removes files or directories
-5. cat - displays the content of a file
